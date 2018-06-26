@@ -134,7 +134,7 @@
 <DName><![CDATA[OrangeHRM_IE]]></DName>
 <Res><![CDATA[OrangeHRM_IE]]></Res>
 <DT rID="T2">
-<NodeArgs eType="Table" icon="2" nRep="4" filter="False" >
+<NodeArgs eType="Table" icon="13" nRep="4" filter="False" >
 <Disp><![CDATA[Run-Time Data Table]]></Disp>
 <BtmPane vType="Table" >
 <Path><![CDATA[Default.xls]]></Path>
@@ -147,581 +147,266 @@
 <Step rID="T5">
 <Obj plainTxt="False" ><![CDATA[SystemUtil]]></Obj>
 <Details plainTxt="False" ><![CDATA[SystemUtil]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:50]]></Time>
-<TimeTick>1529686070</TimeTick>
+<Time><![CDATA[25/06/2018 - 0:23:13]]></Time>
+<TimeTick>1529866393</TimeTick>
 <Step rID="T6">
 <Obj plainTxt="False" ><![CDATA[Run "iexplore.exe",1]]></Obj>
 <Details plainTxt="False" ><![CDATA[Run "iexplore.exe",1]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:50]]></Time>
-<TimeTick>1529686070</TimeTick>
-<NodeArgs eType="Replay" icon="5" nRep="11" status="Passed" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:13]]></Time>
+<TimeTick>1529866393</TimeTick>
+<NodeArgs eType="Replay" icon="16" nRep="11" status="Passed" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Run "iexplore.exe",1]]></Disp>
 </NodeArgs>
 </Step>
-<NodeArgs eType="Replay" icon="5" nRep="10" status="Passed" Source="Action1" SourceLine="-1" >
+<NodeArgs eType="Replay" icon="16" nRep="10" status="Passed" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[SystemUtil]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T7">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:52]]></Time>
-<TimeTick>1529686072</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="19" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:15]]></Time>
+<TimeTick>1529866395</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="19" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T8">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:53]]></Time>
-<TimeTick>1529686073</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="27" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:16]]></Time>
+<TimeTick>1529866396</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="27" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T9">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:54]]></Time>
-<TimeTick>1529686074</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="35" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:17]]></Time>
+<TimeTick>1529866397</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="35" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T10">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:56]]></Time>
-<TimeTick>1529686076</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="43" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:18]]></Time>
+<TimeTick>1529866398</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="43" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T11">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:57]]></Time>
-<TimeTick>1529686077</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="51" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:20]]></Time>
+<TimeTick>1529866400</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="51" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T12">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:17:58]]></Time>
-<TimeTick>1529686078</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="59" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:21]]></Time>
+<TimeTick>1529866401</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="59" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T13">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:00]]></Time>
-<TimeTick>1529686080</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="67" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:22]]></Time>
+<TimeTick>1529866402</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="67" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T14">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:01]]></Time>
-<TimeTick>1529686081</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="75" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:23]]></Time>
+<TimeTick>1529866403</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="75" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T15">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:02]]></Time>
-<TimeTick>1529686082</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="83" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:25]]></Time>
+<TimeTick>1529866405</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="83" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T16">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:04]]></Time>
-<TimeTick>1529686084</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="91" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:26]]></Time>
+<TimeTick>1529866406</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="91" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T17">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:05]]></Time>
-<TimeTick>1529686085</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="99" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:27]]></Time>
+<TimeTick>1529866407</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="99" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T18">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:07]]></Time>
-<TimeTick>1529686087</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="107" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:29]]></Time>
+<TimeTick>1529866409</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="107" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T19">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:08]]></Time>
-<TimeTick>1529686088</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="115" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:30]]></Time>
+<TimeTick>1529866410</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="115" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T20">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:09]]></Time>
-<TimeTick>1529686089</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="123" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:31]]></Time>
+<TimeTick>1529866411</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="123" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T21">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:11]]></Time>
-<TimeTick>1529686091</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="131" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:32]]></Time>
+<TimeTick>1529866412</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="131" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T22">
 <Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:40]]></Time>
-<TimeTick>1529686120</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="134" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:46]]></Time>
+<TimeTick>1529866426</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="134" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ WebButton ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T23">
 <Obj plainTxt="False" ><![CDATA[[ LOGIN ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object exists"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:40]]></Time>
-<TimeTick>1529686120</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="136" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:47]]></Time>
+<TimeTick>1529866427</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="136" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ LOGIN ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T24">
 <Obj plainTxt="False" ><![CDATA[[ txtUsername ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object exists"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:40]]></Time>
-<TimeTick>1529686120</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="138" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:47]]></Time>
+<TimeTick>1529866427</TimeTick>
+<NodeArgs eType="Replay" icon="18" nRep="138" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ txtUsername ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T25">
 <Obj plainTxt="False" ><![CDATA[[ txtUsername ].Set]]></Obj>
 <Details plainTxt="False" ><![CDATA["Admin"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:41]]></Time>
-<TimeTick>1529686121</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="141" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:47]]></Time>
+<TimeTick>1529866427</TimeTick>
+<NodeArgs eType="Replay" icon="18" nRep="141" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ txtUsername ].Set]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T26">
 <Obj ><![CDATA[Username Set]]></Obj>
 <Details ><![CDATA[Successfully Set]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:41]]></Time>
-<TimeTick>1529686121</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="142" status="Passed" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:47]]></Time>
+<TimeTick>1529866427</TimeTick>
+<NodeArgs eType="User" icon="19" nRep="142" status="Passed" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Username Set]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T27">
 <Obj plainTxt="False" ><![CDATA[[ txtPassword ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object exists"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:41]]></Time>
-<TimeTick>1529686121</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="144" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:47]]></Time>
+<TimeTick>1529866427</TimeTick>
+<NodeArgs eType="Replay" icon="18" nRep="144" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ txtPassword ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T28">
 <Obj plainTxt="False" ><![CDATA[[ txtPassword ].SetSecure]]></Obj>
 <Details plainTxt="False" ><![CDATA["5b068f0c477121820ccbafa7e2a6ee06"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:41]]></Time>
-<TimeTick>1529686121</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="147" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:48]]></Time>
+<TimeTick>1529866428</TimeTick>
+<NodeArgs eType="Replay" icon="18" nRep="147" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ txtPassword ].SetSecure]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T29">
 <Obj ><![CDATA[Password Set]]></Obj>
 <Details ><![CDATA[Successfully Set]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:41]]></Time>
-<TimeTick>1529686121</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="148" status="Passed" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:48]]></Time>
+<TimeTick>1529866428</TimeTick>
+<NodeArgs eType="User" icon="19" nRep="148" status="Passed" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Password Set]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T30">
 <Obj plainTxt="False" ><![CDATA[[ LOGIN ].Exist]]></Obj>
 <Details plainTxt="False" ><![CDATA["Object exists"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:41]]></Time>
-<TimeTick>1529686121</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="150" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:48]]></Time>
+<TimeTick>1529866428</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="150" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ LOGIN ].Exist]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T31">
 <Obj plainTxt="False" ><![CDATA[[ LOGIN ].Click]]></Obj>
 <Details plainTxt="False" ><![CDATA[]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:41]]></Time>
-<TimeTick>1529686121</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="153" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:48]]></Time>
+<TimeTick>1529866428</TimeTick>
+<NodeArgs eType="Replay" icon="17" nRep="153" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[[ LOGIN ].Click]]></Disp>
 </NodeArgs>
 </Step>
 <Step rID="T32">
 <Obj ><![CDATA[Login Button Click]]></Obj>
 <Details ><![CDATA[Successfully Clicked]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:42]]></Time>
-<TimeTick>1529686122</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="154" status="Passed" Source="Action1" SourceLine="-1" >
+<Time><![CDATA[25/06/2018 - 0:23:48]]></Time>
+<TimeTick>1529866428</TimeTick>
+<NodeArgs eType="User" icon="19" nRep="154" status="Passed" Source="Action1" SourceLine="-1" >
 <Disp><![CDATA[Login Button Click]]></Disp>
 </NodeArgs>
 </Step>
-<Step rID="T33">
-<Obj plainTxt="False" ><![CDATA[[ PIM ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object exists"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:47]]></Time>
-<TimeTick>1529686127</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="156" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ PIM ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T34">
-<Obj plainTxt="False" ><![CDATA[[ PIM ].Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:47]]></Time>
-<TimeTick>1529686127</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="159" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ PIM ].Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T35">
-<Obj ><![CDATA[PIM Link Click]]></Obj>
-<Details ><![CDATA[Successfully Clicked]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:47]]></Time>
-<TimeTick>1529686127</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="160" status="Passed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[PIM Link Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T36">
-<Obj plainTxt="False" ><![CDATA[[ Add Employee ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object exists"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:49]]></Time>
-<TimeTick>1529686129</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="162" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ Add Employee ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T37">
-<Obj plainTxt="False" ><![CDATA[[ Add Employee ].Click]]></Obj>
-<Details plainTxt="False" ><![CDATA[]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:50]]></Time>
-<TimeTick>1529686130</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="165" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ Add Employee ].Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T38">
-<Obj ><![CDATA[Add Employee Link Click]]></Obj>
-<Details ><![CDATA[Successfully Clicked]]></Details>
-<Time><![CDATA[22/06/2018 - 22:18:50]]></Time>
-<TimeTick>1529686130</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="166" status="Passed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Add Employee Link Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T39">
-<Obj plainTxt="False" ><![CDATA[[ WebEdit ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:19:11]]></Time>
-<TimeTick>1529686151</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="208" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebEdit ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T40">
-<Obj ><![CDATA[First Name Set]]></Obj>
-<Details ><![CDATA[First Name/Object does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:19:11]]></Time>
-<TimeTick>1529686151</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="209" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[First Name Set]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T41">
-<Obj plainTxt="False" ><![CDATA[[ WebEdit ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:19:31]]></Time>
-<TimeTick>1529686171</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="430" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebEdit ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T42">
-<Obj ><![CDATA[Last Name Set]]></Obj>
-<Details ><![CDATA[Last Name/Object does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:19:31]]></Time>
-<TimeTick>1529686171</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="431" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Last Name Set]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T43">
-<Obj plainTxt="False" ><![CDATA[[ WebEdit ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:19:52]]></Time>
-<TimeTick>1529686192</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="652" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebEdit ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T44">
-<Obj plainTxt="False" ><![CDATA[[ WebCheckBox ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:20:12]]></Time>
-<TimeTick>1529686212</TimeTick>
-<NodeArgs eType="Replay" icon="10" nRep="870" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebCheckBox ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T45">
-<Obj ><![CDATA[Check box Set]]></Obj>
-<Details ><![CDATA[Check box does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:20:12]]></Time>
-<TimeTick>1529686212</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="871" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Check box Set]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T46">
-<Obj plainTxt="False" ><![CDATA[[ WebEdit ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:20:32]]></Time>
-<TimeTick>1529686232</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="1092" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebEdit ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T47">
-<Obj ><![CDATA[User Name Set]]></Obj>
-<Details ><![CDATA[User Name/Object does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:20:32]]></Time>
-<TimeTick>1529686232</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="1093" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[User Name Set]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T48">
-<Obj plainTxt="False" ><![CDATA[[ WebEdit ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:20:52]]></Time>
-<TimeTick>1529686252</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="1314" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebEdit ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T49">
-<Obj ><![CDATA[User Password Set]]></Obj>
-<Details ><![CDATA[User Password/Object does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:20:52]]></Time>
-<TimeTick>1529686252</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="1315" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[User Password Set]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T50">
-<Obj plainTxt="False" ><![CDATA[[ WebEdit ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:21:13]]></Time>
-<TimeTick>1529686273</TimeTick>
-<NodeArgs eType="Replay" icon="7" nRep="1527" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebEdit ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T51">
-<Obj ><![CDATA[Confirm Password Set]]></Obj>
-<Details ><![CDATA[Confirm Password/Object does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:21:13]]></Time>
-<TimeTick>1529686273</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="1528" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Confirm Password Set]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T52">
-<Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:21:33]]></Time>
-<TimeTick>1529686293</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="1752" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebButton ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T53">
-<Obj ><![CDATA[Save Button Click]]></Obj>
-<Details ><![CDATA[Save Button does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:21:33]]></Time>
-<TimeTick>1529686293</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="1753" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Save Button Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T54">
-<Obj plainTxt="False" ><![CDATA[[ Link ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:21:53]]></Time>
-<TimeTick>1529686313</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="1977" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ Link ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T55">
-<Obj ><![CDATA[PIM Link Click]]></Obj>
-<Details ><![CDATA[Link does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:21:53]]></Time>
-<TimeTick>1529686313</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="1978" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[PIM Link Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T56">
-<Obj plainTxt="False" ><![CDATA[[ Link ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:22:14]]></Time>
-<TimeTick>1529686334</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="2190" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ Link ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T57">
-<Obj ><![CDATA[Employee List Link Click]]></Obj>
-<Details ><![CDATA[Link does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:22:14]]></Time>
-<TimeTick>1529686334</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="2191" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Employee List Link Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T58">
-<Obj plainTxt="False" ><![CDATA[[ WebTable ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:22:34]]></Time>
-<TimeTick>1529686354</TimeTick>
-<NodeArgs eType="Replay" icon="11" nRep="2415" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebTable ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T59">
-<Obj ><![CDATA[Select Check box Set]]></Obj>
-<Details ><![CDATA[Check box does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:22:34]]></Time>
-<TimeTick>1529686354</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="2416" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Select Check box Set]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T60">
-<Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:22:54]]></Time>
-<TimeTick>1529686374</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="2634" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebButton ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T61">
-<Obj ><![CDATA[Delete Button Click]]></Obj>
-<Details ><![CDATA[Delete Button does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:22:54]]></Time>
-<TimeTick>1529686374</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="2635" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Delete Button Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T62">
-<Obj plainTxt="False" ><![CDATA[[ WebButton ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:23:15]]></Time>
-<TimeTick>1529686395</TimeTick>
-<NodeArgs eType="Replay" icon="6" nRep="2880" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ WebButton ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T63">
-<Obj ><![CDATA[Dialog Delete Button Click]]></Obj>
-<Details ><![CDATA[Delete Button does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:23:15]]></Time>
-<TimeTick>1529686395</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="2881" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Dialog Delete Button Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T64">
-<Obj plainTxt="False" ><![CDATA[[ Link ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:23:37]]></Time>
-<TimeTick>1529686417</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="2889" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ Link ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T65">
-<Obj ><![CDATA[Welcome Link Click]]></Obj>
-<Details ><![CDATA[Link does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:23:37]]></Time>
-<TimeTick>1529686417</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="2890" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Welcome Link Click]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T66">
-<Obj plainTxt="False" ><![CDATA[[ Link ].Exist]]></Obj>
-<Details plainTxt="False" ><![CDATA["Object does not exist"]]></Details>
-<Time><![CDATA[22/06/2018 - 22:23:57]]></Time>
-<TimeTick>1529686437</TimeTick>
-<NodeArgs eType="Replay" icon="9" nRep="2898" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[[ Link ].Exist]]></Disp>
-</NodeArgs>
-</Step>
-<Step rID="T67">
-<Obj ><![CDATA[Logout Link Click]]></Obj>
-<Details ><![CDATA[Link does not exist]]></Details>
-<Time><![CDATA[22/06/2018 - 22:23:57]]></Time>
-<TimeTick>1529686437</TimeTick>
-<NodeArgs eType="User" icon="8" nRep="2899" status="Failed" Source="Action1" SourceLine="-1" >
-<Disp><![CDATA[Logout Link Click]]></Disp>
-</NodeArgs>
-</Step>
-<Summary sTime="22/06/2018 - 22:17:47" eTime="22/06/2018 - 22:24:03" passed="6" failed="14" warnings="0" ></Summary>
-<NodeArgs eType="StartAction" icon="4" nRep="7" status="Failed" >
+<Summary sTime="25/06/2018 - 0:23:10" eTime="25/06/2018 - 0:23:56" passed="4" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="15" nRep="7" status="Passed" >
 <Disp><![CDATA[Action1 Summary]]></Disp>
 </NodeArgs>
 </Action>
-<NodeArgs eType="StartIteration" icon="3" nRep="6" status="Failed" >
+<NodeArgs eType="StartIteration" icon="14" nRep="6" status="Passed" >
 <Disp><![CDATA[OrangeHRM_IE Iteration 1 (Row 1)]]></Disp>
 </NodeArgs>
 </DIter>
-<Summary sTime="22/06/2018 - 22:17:46" eTime="22/06/2018 - 22:24:03" passed="6" failed="14" warnings="0" ></Summary>
-<NodeArgs eType="StartTest" icon="1" nRep="3" status="Failed" >
+<Summary sTime="25/06/2018 - 0:23:09" eTime="25/06/2018 - 0:23:56" passed="4" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartTest" icon="12" nRep="3" status="Passed" >
 <Disp><![CDATA[Test OrangeHRM_IE Summary]]></Disp>
 </NodeArgs>
 </Doc>
